@@ -1,3 +1,25 @@
 == MediaWiki Title ==
 
 * Bullet
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+====== Mac OS X ======
+
+^       Name    ^ Version ^ Year ^
+| Sierra        | 10.12   | 2016 |
+| El Capitan    | 10.11   | 2015 |
+
+{|
+|Orange
+|Apple
+|-
+|Bread
+|Pie
+|-
+|Butter
+|Ice cream 
+|}
